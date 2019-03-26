@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/5Volts/Gardening_Robot/master/img.png)
+![alt text](https://raw.githubusercontent.com/5Volts/Gardening-Robot/master/img.png)
 # Gardening-Robot
 
 Are you tired of going outside to water and maintain your vegetable? Do you wish to have your backyard greenery stay healthy with just the push of a button? Today we'll make a remote-controlled robot that is designed to make your life easier.
